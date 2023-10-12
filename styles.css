@@ -1,14 +1,14 @@
 
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:blueviolet;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #333;
-    color: white;
+    background-color:black;
+    color:goldenrod;
     text-align: center;
     padding: 20px 0;
 }
@@ -27,7 +27,7 @@ nav ul li {
 section {
     margin: 40px;
     padding: 20px;
-    background-color: white;
+    background-color:palevioletred;
     border-radius: 5px;
 }
 
